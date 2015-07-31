@@ -31,8 +31,8 @@
 ## Configuration
 
 ### Arduino
-- Degital read
-- Pin 3
+- Degital Read
+- Port 3
 
 ### Heroku
 
